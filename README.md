@@ -369,6 +369,6 @@ The reproducibility of this pipeline is supported by:
 ---
 
 ## 29. Author
-**[Your Name / Portfolio Link]**  
+**Shagun Srivastava**  
 *Early-Stage Computational Systems Biology Researcher | Bioinformatics Engineer*  
-For inquiries, collaborations, or thesis discussions, contact me via [Your Email/LinkedIn].
+For inquiries or collaborations, contact me via shagun.srivastava.work@gmail.com.
